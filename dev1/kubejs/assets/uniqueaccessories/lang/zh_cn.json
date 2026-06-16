@@ -1,0 +1,412 @@
+{
+  "item.uniqueaccessories.accessory_box": "饰品箱",
+  "item.uniqueaccessories.ancient_chisel": "远古凿子",
+  "item.uniqueaccessories.all_purpose_seasoning": "万能调味料",
+  "item.uniqueaccessories.amplifier_stone": "增幅石",
+  "item.uniqueaccessories.anklet_of_fortune": "幸运脚链",
+  "item.uniqueaccessories.black_belt": "黑带",
+  "item.uniqueaccessories.blade_shoes": "刀锋鞋",
+  "item.uniqueaccessories.bloody_knife": "血腥匕首",
+  "item.uniqueaccessories.burning_soul": "燃烧之魂",
+  "item.uniqueaccessories.championship_belt": "冠军腰带",
+  "item.uniqueaccessories.cursed_doll_head": "诅咒玩偶头",
+  "item.uniqueaccessories.devils_eyeball": "恶魔之眼",
+  "item.uniqueaccessories.durable_spring": "耐用弹簧",
+  "item.uniqueaccessories.ender_lens": "末影透镜",
+  "item.uniqueaccessories.fossil_shark_tooth": "化石鲨鱼牙",
+  "item.uniqueaccessories.golden_egg_charm": "金蛋护符",
+  "item.uniqueaccessories.hero_emblem": "英雄徽章",
+  "item.uniqueaccessories.large_paddle": "大型船桨",
+  "item.uniqueaccessories.life_jacket_belt": "救生衣腰带",
+  "item.uniqueaccessories.magick_quiver": "魔法箭袋",
+  "item.uniqueaccessories.master_ninja_tabi": "忍宗足袋",
+  "item.uniqueaccessories.moon_stone": "月亮石",
+  "item.uniqueaccessories.ninjutsu_manual": "忍术卷轴",
+  "item.uniqueaccessories.power_crystal": "力量水晶",
+  "item.uniqueaccessories.rocket_shoes": "火箭鞋",
+  "item.uniqueaccessories.rose_of_temptation": "诱惑玫瑰",
+  "item.uniqueaccessories.royal_honeycomb": "皇家蜂巢",
+  "item.uniqueaccessories.rusty_guillotine_blade": "生锈断头台刀片",
+  "item.uniqueaccessories.sharp_fishing_hook": "锋利鱼钩",
+  "item.uniqueaccessories.shiny_stone": "闪亮石",
+  "item.uniqueaccessories.silver_cat_tail": "银猫尾",
+  "item.uniqueaccessories.small_propulsion_device": "小型推进装置",
+  "item.uniqueaccessories.snow_golem_doll": "雪傀儡玩偶",
+  "item.uniqueaccessories.soul_gem": "灵魂宝石",
+  "item.uniqueaccessories.starved_wolf_skull": "饥饿狼头骨",
+  "item.uniqueaccessories.still_beating_heart": "搏动之心",
+  "item.uniqueaccessories.strong_sticky_slime_ball": "强力黏性史莱姆球",
+  "item.uniqueaccessories.sun_stone": "太阳石",
+  "item.uniqueaccessories.supreme_meat": "至高肉块",
+  "item.uniqueaccessories.survival_belt": "生存腰带",
+  "item.uniqueaccessories.suspicious_mushroom": "可疑蘑菇",
+  "item.uniqueaccessories.tabi": "足袋",
+  "item.uniqueaccessories.tool_belt": "工具腰带",
+  "item.uniqueaccessories.waist_warmer": "护腰暖带",
+  "item.uniqueaccessories.withered_heart": "枯萎之心",
+
+  "curios.identifier.feet": "脚部",
+  "curios.modifiers.feet": "装备于脚部时：",
+
+  "entity.uniqueaccessories.golden_egg": "金蛋",
+
+  "creativetab.unique_accessories_tab": "独特饰品",
+
+  "tooltip.uniqueaccessories.hold_shift": "按住 Shift 查看详情",
+
+  "tooltip.uniqueaccessories.accessory_box.desc1": "内含随机饰品",
+  "tooltip.uniqueaccessories.accessory_box.desc2": "罕见：80%",
+  "tooltip.uniqueaccessories.accessory_box.desc3": "稀有：18%",
+  "tooltip.uniqueaccessories.accessory_box.desc4": "史诗：2%",
+
+  "tooltip.uniqueaccessories.ancient_chisel.desc1": "挖掘速度 +%s%%",
+
+  "tooltip.uniqueaccessories.all_purpose_seasoning.desc1": "当你进食时，恢复 1 点生命值并额外恢复 2 点饥饿值",
+
+  "tooltip.uniqueaccessories.amplifier_stone.desc1": "使用号角时，播放爆炸音效并对 %1$s 米内的生物造成 %2$s 点伤害",
+
+  "tooltip.uniqueaccessories.anklet_of_fortune.desc1": "%s%% 几率使负面效果无效化",
+
+  "tooltip.uniqueaccessories.black_belt.desc1": "闪避率 +%s%%",
+  "tooltip.uniqueaccessories.black_belt.desc2": "闪避时：攻击伤害 +4 / 移动速度 +20%，持续 5 秒",
+
+  "tooltip.uniqueaccessories.blade_shoes.desc1": "破坏脚下的植物和蜘蛛网",
+
+  "tooltip.uniqueaccessories.bloody_knife.desc1": "从背后攻击生物时，造成的伤害增加 30%",
+
+  "tooltip.uniqueaccessories.burning_soul.desc1": "受到致命伤害时，消耗经验等级来避免死亡",
+  "tooltip.uniqueaccessories.burning_soul.desc2": "每点伤害消耗 %s 级",
+
+  "tooltip.uniqueaccessories.championship_belt.desc1": "徒手攻击伤害 +%1$s / 徒手攻击速度 +%2$s",
+  "tooltip.uniqueaccessories.championship_belt.desc2": "每空一个盔甲栏：护甲值 +%1$s / 移动速度 +%2$s%% / 闪避率 +%3$s%% / 击退抗性 +%4$s%%",
+
+  "tooltip.uniqueaccessories.cursed_doll.desc1": "每 20 秒，对 %3$s 米内的生物（包括你自己）施加一个持续 20 秒的随机负面效果",
+
+  "tooltip.uniqueaccessories.devils_eyeball.desc1": "暴击伤害 +%1$s%% / 暴击率 +%2$s%%",
+
+  "tooltip.uniqueaccessories.durable_spring.desc1": "移动速度 +%s%%",
+  "tooltip.uniqueaccessories.durable_spring.desc2": "增加跳跃高度",
+  "tooltip.uniqueaccessories.durable_spring.desc3": "仅当摔落高度达到 7 格或以上时才受到摔落伤害",
+
+  "tooltip.uniqueaccessories.ender_lens.desc1": "使用望远镜时，若注视 320 米内的生物 2 秒，你将被传送至该坐标",
+  "tooltip.uniqueaccessories.ender_lens.desc2": "无法传送到飞行中的生物",
+
+  "tooltip.uniqueaccessories.fossil_shark_tooth.desc1": "护甲穿透 +%s",
+
+  "tooltip.uniqueaccessories.golden_egg_charm.desc1": "投掷金蛋而非普通鸡蛋",
+  "tooltip.uniqueaccessories.golden_egg_charm.desc2": "金蛋：造成 %s 点伤害，并在命中点生成一个金粒",
+
+  "tooltip.uniqueaccessories.hero_emblem.desc1": "护甲值 +4 / 攻击伤害 +%1$s / 箭矢伤害 +%2$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc2": "生命值 ≤ 10：攻击伤害 +%1$s / 箭矢伤害 +%2$s%% / 移动速度 +%3$s%%",
+  "tooltip.uniqueaccessories.hero_emblem.desc3": "生命值 = 1：攻击伤害 +%1$s / 箭矢伤害 +%2$s%% / 闪避率 +%3$s%% / 暴击率 +%4$s%% / 消除负面效果",
+
+  "tooltip.uniqueaccessories.large_paddle.desc1": "船只移动速度 +50%",
+
+  "tooltip.uniqueaccessories.life_jacket_belt.desc1": "在水下快速上浮并漂浮在水面",
+
+  "tooltip.uniqueaccessories.magick_quiver.desc1": "箭矢伤害 +%s%% / 箭矢速度 +%s%%",
+
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc1": "移动速度 +15%",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc2": "快速双击移动键可朝该方向长距离瞬步",
+  "tooltip.uniqueaccessories.master_ninja_tabi.desc3": "瞬步需要饥饿值在 7 点或以上",
+
+  "tooltip.uniqueaccessories.moon_stone.desc1": "效果仅在夜晚生效",
+  "tooltip.uniqueaccessories.moon_stone.desc2": "攻击伤害 +%1$s / 箭矢伤害 +%2$s%% / 攻击速度 +%3$s",
+  "tooltip.uniqueaccessories.moon_stone.desc3": "护甲值 +%1$s / 暴击率 +%2$s%% / 挖掘速度 +%3$s%%",
+  "tooltip.uniqueaccessories.moon_stone.desc4": "每 %1$s 秒回复 1 点生命值",
+
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc1": "潜行移动速度 +200%",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc2": "潜行时，免疫方块效果并降低周围生物对你的察觉范围 60%",
+  "tooltip.uniqueaccessories.ninjutsu_manual.desc3": "方块效果：蜘蛛网 / 甜浆果丛 / 仙人掌 / 压力板 / 绊线",
+
+  "tooltip.uniqueaccessories.power_crystal.desc1": "拉弓速度 +30%",
+
+  "tooltip.uniqueaccessories.rocket_shoes.desc1": "在空中按下跳跃键将启动推进器并上升",
+  "tooltip.uniqueaccessories.rocket_shoes.desc2": "连续激活会增加上升动力",
+  "tooltip.uniqueaccessories.rocket_shoes.desc3": "最多持续 %1$s 秒，落地后可再次使用",
+
+  "tooltip.uniqueaccessories.rose_of_temptation.desc1": "吸引 16 米半径内的中立生物",
+  "tooltip.uniqueaccessories.rose_of_temptation.desc2": "即使持在手中也能激活此能力",
+
+  "tooltip.uniqueaccessories.royal_honeycomb.desc1": "受到生物攻击时，召唤一只强化蜜蜂持续 8 秒",
+
+  "tooltip.uniqueaccessories.rusty_guillotine_blade.desc1": "对生命值低于 40% 的生物造成的伤害增加 80%",
+
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc1": "鱼钩击中生物或收竿时造成 %1$s 点伤害",
+  "tooltip.uniqueaccessories.sharp_fishing_hook.desc2": "增强鱼竿拉扯生物的能力",
+
+  "tooltip.uniqueaccessories.shiny_stone.desc1": "若你静止不动 2 秒，将快速恢复生命值",
+
+  "tooltip.uniqueaccessories.silver_cat_tail.desc1": "冲刺速度 +%s%%",
+  "tooltip.uniqueaccessories.silver_cat_tail.desc2": "免疫非致命的摔落伤害",
+
+  "tooltip.uniqueaccessories.small_propulsion.desc1": "抛射物速度 +%1$s%%（不包括箭矢）",
+
+  "tooltip.uniqueaccessories.snow_golem_doll.desc1": "雪球伤害 +%1$s",
+  "tooltip.uniqueaccessories.snow_golem_doll.desc2": "潜行时在脚下生成雪",
+
+  "tooltip.uniqueaccessories.soul_gem.desc1": "击杀生物时恢复 %1$s 点生命值",
+
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc1": "始终处于饥饿状态，但成功近战命中可恢复 %1$s 点生命值",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc2": "饥饿值 ≤ 6：移动速度 +%1$s%%",
+  "tooltip.uniqueaccessories.starved_wolf_skull.desc3": "饥饿值 = 0：攻击伤害 +%1$s",
+
+  "tooltip.uniqueaccessories.still_beating_heart.desc1": "攻击伤害 +2",
+  "tooltip.uniqueaccessories.still_beating_heart.desc2": "生命值全满时，造成的伤害增加 20%",
+
+  "tooltip.uniqueaccessories.strengthened_sticky_slime_ball.desc1": "移动速度 -10%",
+  "tooltip.uniqueaccessories.strengthened_sticky_slime_ball.desc2": "现在可以攀爬方块墙，蹲下时会原地固定",
+
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc1": "击退抗性 +10% / 移动速度 -10%",
+  "tooltip.uniqueaccessories.strong_sticky_slime_ball.desc2": "现在可以攀爬方块墙，蹲下时会原地固定",
+
+  "tooltip.uniqueaccessories.sun_stone.desc1": "效果仅在白天生效",
+  "tooltip.uniqueaccessories.sun_stone.desc2": "攻击伤害 +%1$s / 箭矢伤害 +%2$s%% / 攻击速度 +%3$s",
+  "tooltip.uniqueaccessories.sun_stone.desc3": "护甲值 +%1$s / 暴击率 +%2$s%% / 挖掘速度 +%3$s%%",
+  "tooltip.uniqueaccessories.sun_stone.desc4": "每 %1$s 秒回复 1 点生命值",
+
+  "tooltip.uniqueaccessories.supreme_meat.desc1": "强化你跟随的狼：攻击伤害 +%1$s / 护甲值 +%2$s / 移动速度 +%3$s%%",
+
+  "tooltip.uniqueaccessories.survival_belt.desc1": "可跨越高度 +0.5",
+  "tooltip.uniqueaccessories.survival_belt.desc2": "增加动物型生物的掉落物",
+  "tooltip.uniqueaccessories.survival_belt.desc3": "潜行时，用空手右键点击方块可将其点燃",
+  "tooltip.uniqueaccessories.survival_belt.desc4": "站在火源附近时，每 2 秒恢复 1 点生命值",
+
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc1": "处于负面效果下时，造成的伤害增加 15%",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc2": "处于负面效果下时，每 2 秒恢复 1 点生命值，持续 10 秒",
+  "tooltip.uniqueaccessories.suspicious_mushroom.desc3": "此能力在效果结束后有 10 秒冷却时间",
+
+  "tooltip.uniqueaccessories.tabi.desc1": "行走移动速度 +%1$s%%",
+  "tooltip.uniqueaccessories.tabi.desc2": "快速双击移动键可朝该方向瞬步",
+  "tooltip.uniqueaccessories.tabi.desc3": "瞬步只能在地面且饥饿值达到 7 点或以上时激活",
+
+  "tooltip.uniqueaccessories.tool_belt.desc1": "方块触及距离 +%1$s 米",
+  "tooltip.uniqueaccessories.tool_belt.desc2": "方块放置速度 +100%",
+
+  "tooltip.uniqueaccessories.waist_warmer.desc1": "免疫细雪的冰冻伤害",
+  "tooltip.uniqueaccessories.waist_warmer.desc2": "清晨醒来时：恢复 10 点生命值并获得 2 分钟的速度 I、急迫 I 和力量 I",
+
+  "tooltip.uniqueaccessories.withered_heart.desc1": "将最大生命值设置为 1",
+
+  "adv.uniqueaccessories.collect_05.title": "新手收藏家",
+  "adv.uniqueaccessories.collect_05.desc": "获得 5 种不同的饰品",
+  "adv.uniqueaccessories.collect_10.title": "饰品爱好者",
+  "adv.uniqueaccessories.collect_10.desc": "获得 10 种不同的饰品",
+  "adv.uniqueaccessories.collect_20.title": "鉴赏家",
+  "adv.uniqueaccessories.collect_20.desc": "获得 20 种不同的饰品",
+  "adv.uniqueaccessories.collect_40.title": "终极收藏家",
+  "adv.uniqueaccessories.collect_40.desc": "获得所有饰品",
+
+  "adv.uniqueaccessories.get_accessory_box.title": "试试手气",
+  "adv.uniqueaccessories.get_accessory_box.desc": "获得一个饰品箱",
+
+  "adv.uniqueaccessories.get_any_accessory.title": "第一件饰品！",
+  "adv.uniqueaccessories.get_any_accessory.desc": "获得任意一件饰品",
+
+  "adv.uniqueaccessories.get_epic_accessory.title": "史诗发现",
+  "adv.uniqueaccessories.get_epic_accessory.desc": "获得任意一件史诗饰品",
+
+  "adv.uniqueaccessories.get_epic_from_box.title": "头奖！！！",
+  "adv.uniqueaccessories.get_epic_from_box.desc": "从饰品箱中获得一件史诗饰品",
+
+  "ua.category.belt": "腰带",
+  "ua.category.charm": "护符",
+  "ua.category.feet": "脚部",
+  "ua.category.loot": "战利品",
+
+  "ua.screen.title.global": "独特饰品 - 客户端",
+  "ua.screen.title.server_ro": "独特饰品 - 客户端",
+  "ua.screen.title.world": "独特饰品 - 客户端",
+
+  "ua.config.ancientChiselMining": "远古凿子：挖掘速度",
+
+  "ua.config.amplifierStoneDamage": "增幅石：伤害",
+  "ua.config.amplifierStoneRadius": "增幅石：半径",
+
+  "ua.config.ankletOfFortuneDebuffNegateChance": "幸运脚链：负面效果无效化几率",
+
+  "ua.config.blackBeltDodgeChance": "黑带：闪避率",
+
+  "ua.config.burningSoulLevelCost": "燃烧之魂：等级消耗",
+
+  "ua.config.championshipBeltArmor": "冠军腰带：护甲值",
+  "ua.config.championshipBeltDodgeChance": "冠军腰带：闪避率",
+  "ua.config.championshipBeltKnockbackResistance": "冠军腰带：击退抗性",
+  "ua.config.championshipBeltMovementSpeed": "冠军腰带：移动速度",
+  "ua.config.championshipBeltUnarmedAttackDamage": "冠军腰带：徒手攻击伤害",
+  "ua.config.championshipBeltUnarmedAttackSpeed": "冠军腰带：徒手攻击速度",
+
+  "ua.config.cursedDollHeadEffectRadius": "诅咒玩偶头：效果半径",
+
+  "ua.config.devilsEyeballCriticalChance": "恶魔之眼：暴击率",
+  "ua.config.devilsEyeballCriticalDamage": "恶魔之眼：暴击伤害",
+
+  "ua.config.durableSpringMovementSpeed": "耐用弹簧：移动速度",
+
+  "ua.config.fossilSharkToothPenetration": "化石鲨鱼牙：护甲穿透",
+
+  "ua.config.goldenEggDamage": "金蛋：伤害",
+  "ua.config.goldenEggChance": "金蛋：掉落几率",
+
+  "ua.config.heroEmblemAttackDamage": "英雄徽章：攻击伤害",
+  "ua.config.heroEmblemArrowDamage": "英雄徽章：箭矢伤害",
+  "ua.config.heroEmblemLowHpAttackDamage": "英雄徽章（低生命）：攻击伤害",
+  "ua.config.heroEmblemLowHpArrowDamage": "英雄徽章（低生命）：箭矢伤害",
+  "ua.config.heroEmblemLowHpMovementSpeed": "英雄徽章（低生命）：移动速度",
+  "ua.config.heroEmblem1HpAttackDamage": "英雄徽章（1点生命）：攻击伤害",
+  "ua.config.heroEmblem1HpArrowDamage": "英雄徽章（1点生命）：箭矢伤害",
+  "ua.config.heroEmblem1HpCriticalChance": "英雄徽章（1点生命）：暴击率",
+  "ua.config.heroEmblem1HpDodgeChance": "英雄徽章（1点生命）：闪避率",
+
+  "ua.config.magickQuiverArrowDamage": "魔法箭袋：箭矢伤害",
+  "ua.config.magickQuiverArrowVelocity": "魔法箭袋：箭矢速度",
+
+  "ua.config.moonStoneArmor": "月亮石：护甲值",
+  "ua.config.moonStoneArrowDamage": "月亮石：箭矢伤害",
+  "ua.config.moonStoneAttackDamage": "月亮石：攻击伤害",
+  "ua.config.moonStoneAttackSpeed": "月亮石：攻击速度",
+  "ua.config.moonStoneCriticalChance": "月亮石：暴击率",
+  "ua.config.moonStoneHealSec": "月亮石：治疗间隔",
+  "ua.config.moonStoneMiningSpeed": "月亮石：挖掘速度",
+
+  "ua.config.rocketShoesMaxTicks": "火箭鞋：推进持续刻数",
+
+  "ua.config.royalHoneycombChance": "皇家蜂巢：掉落几率",
+
+  "ua.config.sharpFishingHookDamage": "锋利鱼钩：伤害",
+
+  "ua.config.smallPropulsionMultiplier": "小型推进装置：速度倍率",
+
+  "ua.config.silverCatTailSprintSpeed": "银猫尾：冲刺速度",
+
+  "ua.config.snowGolemDollSnowballDamage": "雪傀儡玩偶：雪球伤害",
+
+  "ua.config.soulGemHeal": "灵魂宝石：治疗量",
+
+  "ua.config.starvedWolfSkullAttackDamage": "饥饿狼头骨：攻击伤害",
+  "ua.config.starvedWolfSkullHeal": "饥饿狼头骨：治疗量",
+  "ua.config.starvedWolfSkullMovementSpeed": "饥饿狼头骨：移动速度",
+
+  "ua.config.sunStoneArmor": "太阳石：护甲值",
+  "ua.config.sunStoneArrowDamage": "太阳石：箭矢伤害",
+  "ua.config.sunStoneAttackDamage": "太阳石：攻击伤害",
+  "ua.config.sunStoneAttackSpeed": "太阳石：攻击速度",
+  "ua.config.sunStoneCriticalChance": "太阳石：暴击率",
+  "ua.config.sunStoneHealSec": "太阳石：治疗间隔",
+  "ua.config.sunStoneMiningSpeed": "太阳石：挖掘速度",
+
+  "ua.config.supremeMeatAttackDamage": "至高肉块：攻击伤害",
+  "ua.config.supremeMeatArmor": "至高肉块：护甲值",
+  "ua.config.supremeMeatMovementSpeed": "至高肉块：移动速度",
+
+  "ua.config.tabiWalkSpeed": "足袋：行走速度",
+
+  "ua.config.toolBeltBlockReach": "工具腰带：方块触及距离",
+
+  "ua.config.witheredHeartMaxHp": "枯萎之心：最大生命值",
+
+  "ua.config.loot.chances.accessory_box.ancient_city": "饰品箱：远古城市几率",
+  "ua.config.loot.chances.accessory_box.bastion_treasure": "饰品箱：堡垒遗迹宝藏几率",
+  "ua.config.loot.chances.accessory_box.stronghold_corridor": "饰品箱：要塞走廊几率",
+  "ua.config.loot.chances.accessory_box.stronghold_crossing": "饰品箱：要塞十字路口几率",
+  "ua.config.loot.chances.accessory_box.pillager_outpost": "饰品箱：掠夺者前哨站几率",
+  "ua.config.loot.chances.accessory_box.shipwreck_treasure": "饰品箱：沉船宝藏几率",
+  "ua.config.loot.chances.accessory_box.simple_dungeon": "饰品箱：简单地下城几率",
+  "ua.config.loot.chances.accessory_box.woodland_mansion": "饰品箱：林地府邸几率",
+
+  "ua.config.loot.chances.accessory_box.buried_treasure": "饰品箱：埋藏的宝藏几率",
+  "ua.config.loot.chances.accessory_box.desert_pyramid": "饰品箱：沙漠神殿几率",
+  "ua.config.loot.chances.accessory_box.end_city_treasure": "饰品箱：末地城几率",
+  "ua.config.loot.chances.accessory_box.jungle_temple": "饰品箱：丛林神庙几率",
+  "ua.config.loot.chances.accessory_box.ruined_portal": "饰品箱：废弃传送门几率",
+  "ua.config.loot.chances.accessory_box.village_desert_house": "饰品箱：沙漠村庄房屋几率",
+  "ua.config.loot.chances.accessory_box.village_plains_house": "饰品箱：平原村庄房屋几率",
+  "ua.config.loot.chances.accessory_box.village_savanna_house": "饰品箱：热带草原村庄房屋几率",
+  "ua.config.loot.chances.accessory_box.village_snowy_house": "饰品箱：雪原村庄房屋几率",
+  "ua.config.loot.chances.accessory_box.village_taiga_house": "饰品箱：针叶林村庄房屋几率",
+
+  "ua.config.loot.chances.all_purpose_seasoning.village_desert_house": "万能调味料：沙漠村庄房屋几率",
+  "ua.config.loot.chances.all_purpose_seasoning.village_plains_house": "万能调味料：平原村庄房屋几率",
+  "ua.config.loot.chances.all_purpose_seasoning.village_savanna_house": "万能调味料：热带草原村庄房屋几率",
+  "ua.config.loot.chances.all_purpose_seasoning.village_snowy_house": "万能调味料：雪原村庄房屋几率",
+  "ua.config.loot.chances.all_purpose_seasoning.village_taiga_house": "万能调味料：针叶林村庄房屋几率",
+  "ua.config.loot.chances.amplifier_stone.abandoned_mineshaft": "增幅石：废弃矿井几率",
+  "ua.config.loot.chances.ancient_chisel.desert_pyramid": "远古凿子：沙漠神殿几率",
+  "ua.config.loot.chances.anklet_of_fortune.village_desert_house": "幸运脚链：沙漠村庄房屋几率",
+  "ua.config.loot.chances.anklet_of_fortune.village_plains_house": "幸运脚链：平原村庄房屋几率",
+  "ua.config.loot.chances.anklet_of_fortune.village_savanna_house": "幸运脚链：热带草原村庄房屋几率",
+  "ua.config.loot.chances.anklet_of_fortune.village_snowy_house": "幸运脚链：雪原村庄房屋几率",
+  "ua.config.loot.chances.anklet_of_fortune.village_taiga_house": "幸运脚链：针叶林村庄房屋几率",
+  "ua.config.loot.chances.black_belt.pillager": "黑带：掠夺者掉落几率",
+  "ua.config.loot.chances.black_belt.vindicator": "黑带：卫道士掉落几率",
+  "ua.config.loot.chances.blade_shoes.village_desert_house": "刀锋鞋：沙漠村庄房屋几率",
+  "ua.config.loot.chances.blade_shoes.village_plains_house": "刀锋鞋：平原村庄房屋几率",
+  "ua.config.loot.chances.blade_shoes.village_savanna_house": "刀锋鞋：热带草原村庄房屋几率",
+  "ua.config.loot.chances.blade_shoes.village_snowy_house": "刀锋鞋：雪原村庄房屋几率",
+  "ua.config.loot.chances.blade_shoes.village_taiga_house": "刀锋鞋：针叶林村庄房屋几率",
+  "ua.config.loot.chances.bloody_knife.zombie": "血腥匕首：僵尸掉落几率",
+  "ua.config.loot.chances.bloody_knife.husk": "血腥匕首：尸壳掉落几率",
+  "ua.config.loot.chances.bloody_knife.witch": "血腥匕首：女巫掉落几率",
+  "ua.config.loot.chances.burning_soul.warden": "燃烧之魂：监守者掉落几率",
+  "ua.config.loot.chances.cursed_doll_head.witch": "诅咒玩偶头：女巫掉落几率",
+  "ua.config.loot.chances.devils_eyeball.bastion_treasure": "恶魔之眼：堡垒遗迹宝藏几率",
+  "ua.config.loot.chances.devils_eyeball.nether_bridge": "恶魔之眼：下界要塞桥几率",
+  "ua.config.loot.chances.durable_spring.village_armorer": "耐用弹簧：村庄盔甲匠几率",
+  "ua.config.loot.chances.durable_spring.village_desert_house": "耐用弹簧：沙漠村庄房屋几率",
+  "ua.config.loot.chances.durable_spring.village_plains_house": "耐用弹簧：平原村庄房屋几率",
+  "ua.config.loot.chances.durable_spring.village_savanna_house": "耐用弹簧：热带草原村庄房屋几率",
+  "ua.config.loot.chances.durable_spring.village_snowy_house": "耐用弹簧：雪原村庄房屋几率",
+  "ua.config.loot.chances.durable_spring.village_taiga_house": "耐用弹簧：针叶林村庄房屋几率",
+  "ua.config.loot.chances.fossil_shark_tooth.ocean_ruin_cold": "化石鲨鱼牙：寒冷海洋遗迹几率",
+  "ua.config.loot.chances.fossil_shark_tooth.ocean_ruin_warm": "化石鲨鱼牙：温暖海洋遗迹几率",
+  "ua.config.loot.chances.hero_emblem.ender_dragon": "英雄徽章：末影龙掉落几率",
+  "ua.config.loot.chances.large_paddle.village_fisher": "大型船桨：村庄渔夫几率",
+  "ua.config.loot.chances.large_paddle.village_desert_house": "大型船桨：沙漠村庄房屋几率",
+  "ua.config.loot.chances.large_paddle.village_plains_house": "大型船桨：平原村庄房屋几率",
+  "ua.config.loot.chances.large_paddle.village_savanna_house": "大型船桨：热带草原村庄房屋几率",
+  "ua.config.loot.chances.large_paddle.village_snowy_house": "大型船桨：雪原村庄房屋几率",
+  "ua.config.loot.chances.large_paddle.village_taiga_house": "大型船桨：针叶林村庄房屋几率",
+  "ua.config.loot.chances.life_jacket_belt.shipwreck_treasure": "救生衣腰带：沉船宝藏几率",
+  "ua.config.loot.chances.magick_quiver.pillager_outpost": "魔法箭袋：掠夺者前哨站几率",
+  "ua.config.loot.chances.moon_stone.end_city_treasure": "月亮石：末地城宝藏几率",
+  "ua.config.loot.chances.power_crystal.abandoned_mineshaft": "力量水晶：废弃矿井几率",
+  "ua.config.loot.chances.rose_of_temptation.simple_dungeon": "诱惑玫瑰：简单地下城几率",
+  "ua.config.loot.chances.sharp_fishing_hook.shipwreck_supply": "锋利鱼钩：沉船补给几率",
+  "ua.config.loot.chances.shiny_stone.jungle_temple": "闪亮石：丛林神庙几率",
+  "ua.config.loot.chances.silver_cat_tail.woodland_mansion": "银猫尾：林地府邸几率",
+  "ua.config.loot.chances.small_propulsion_device.village_weaponsmith": "小型推进装置：村庄武器匠几率",
+  "ua.config.loot.chances.small_propulsion_device.village_desert_house": "小型推进装置：沙漠村庄房屋几率",
+  "ua.config.loot.chances.small_propulsion_device.village_plains_house": "小型推进装置：平原村庄房屋几率",
+  "ua.config.loot.chances.small_propulsion_device.village_savanna_house": "小型推进装置：热带草原村庄房屋几率",
+  "ua.config.loot.chances.small_propulsion_device.village_snowy_house": "小型推进装置：雪原村庄房屋几率",
+  "ua.config.loot.chances.small_propulsion_device.village_taiga_house": "小型推进装置：针叶林村庄房屋几率",
+  "ua.config.loot.chances.snow_golem_doll.igloo_chest": "雪傀儡玩偶：雪屋箱子几率",
+  "ua.config.loot.chances.soul_gem.stronghold_corridor": "灵魂宝石：要塞走廊几率",
+  "ua.config.loot.chances.soul_gem.stronghold_crossing": "灵魂宝石：要塞十字路口几率",
+  "ua.config.loot.chances.starved_wolf_skull.desert_pyramid": "饥饿狼头骨：沙漠神殿几率",
+  "ua.config.loot.chances.starved_wolf_skull.desert_well": "饥饿狼头骨：沙漠水井几率",
+  "ua.config.loot.chances.strong_sticky_slime_ball.slime": "强力黏性史莱姆球：史莱姆掉落几率",
+  "ua.config.loot.chances.sun_stone.ancient_city": "太阳石：远古城市几率",
+  "ua.config.loot.chances.supreme_meat.hoglin": "至高肉块：疣猪兽掉落几率",
+  "ua.config.loot.chances.survival_belt.village_desert_house": "生存腰带：沙漠村庄房屋几率",
+  "ua.config.loot.chances.survival_belt.village_plains_house": "生存腰带：平原村庄房屋几率",
+  "ua.config.loot.chances.survival_belt.village_savanna_house": "生存腰带：热带草原村庄房屋几率",
+  "ua.config.loot.chances.survival_belt.village_snowy_house": "生存腰带：雪原村庄房屋几率",
+  "ua.config.loot.chances.survival_belt.village_taiga_house": "生存腰带：针叶林村庄房屋几率",
+  "ua.config.loot.chances.still_beating_heart.piglin_brute": "搏动之心：猪灵蛮兵掉落几率",
+  "ua.config.loot.chances.suspicious_mushroom.mooshroom": "可疑蘑菇：哞菇掉落几率",
+  "ua.config.loot.chances.tabi.pillager": "足袋：掠夺者掉落几率",
+  "ua.config.loot.chances.tabi.vindicator": "足袋：卫道士掉落几率",
+  "ua.config.loot.chances.tool_belt.village_toolsmith": "工具腰带：村庄工具匠几率",
+  "ua.config.loot.chances.tool_belt.village_desert_house": "工具腰带：沙漠村庄房屋几率",
+  "ua.config.loot.chances.tool_belt.village_plains_house": "工具腰带：平原村庄房屋几率",
+  "ua.config.loot.chances.tool_belt.village_savanna_house": "工具腰带：热带草原村庄房屋几率",
+  "ua.config.loot.chances.tool_belt.village_snowy_house": "工具腰带：雪原村庄房屋几率",
+  "ua.config.loot.chances.tool_belt.village_taiga_house": "工具腰带：针叶林村庄房屋几率",
+  "ua.config.loot.chances.waist_warmer.village_desert_house": "护腰暖带：沙漠村庄房屋几率",
+  "ua.config.loot.chances.waist_warmer.village_plains_house": "护腰暖带：平原村庄房屋几率",
+  "ua.config.loot.chances.waist_warmer.village_savanna_house": "护腰暖带：热带草原村庄房屋几率",
+  "ua.config.loot.chances.waist_warmer.village_snowy_house": "护腰暖带：雪原村庄房屋几率",
+  "ua.config.loot.chances.waist_warmer.village_taiga_house": "护腰暖带：针叶林村庄房屋几率",
+  "ua.config.loot.chances.withered_heart.nether_bridge": "枯萎之心：下界要塞桥几率"
+}
