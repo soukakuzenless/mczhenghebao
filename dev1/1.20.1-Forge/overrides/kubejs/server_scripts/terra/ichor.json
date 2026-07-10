@@ -1,0 +1,11 @@
+{
+    "type": "confluence:workshop",
+    "ingredients": [
+        {
+            "item": "wizard_terra_cuiros:ichor'"
+        }
+    ],
+    "result": {
+        "item": "enigmaticaddons:ichor_droplet"
+    }
+}
