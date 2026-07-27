@@ -1,0 +1,2716 @@
+{
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 2,
+  "name": "1.20.1-Forge",
+  "version": "1.0",
+  "author": "1",
+  "description": "",
+  "fileApi": "",
+  "url": "",
+  "forceUpdate": false,
+  "origin": [],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.4.20"
+    }
+  ],
+  "libraries": [],
+  "files": [
+    {
+      "path": "mods/ApothicAttributes-1.3.7.jar",
+      "hash": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/ancientreforging-1.3.jar",
+      "hash": "a8228b33fb8de97c2c71dc3c5657aa9b91ad336f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/additional_attributes-1.20.1-1.3.6-all.jar",
+      "hash": "aa172dc324d2d59fc41a15dec77ab4f3e2a5527a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/apotheosis-7.4.8.jar",
+      "hash": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Placebo-8.6.3.jar",
+      "hash": "e85f53de2e582a79ce25ff1df1e7b5b5fc08440f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/jei-1.20.1-forge-15.20.0.130.jar",
+      "hash": "1c51bf6df51ffbb1c5efe23780a7a3d053421f34",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/jeed-1.20-2.2.5.jar",
+      "hash": "9f6b1884ad8b81c0e8796daf7871eeb54271f27b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "hash": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/[Iron的法术与魔法书] irons_spellbooks-1.20.1-3.15.3.jar",
+      "hash": "5bdbc55b650fcacf96f0cd92de6fecc99058c5d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "hash": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/curios-5.14.1.jar",
+      "hash": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "hash": "fead1d1645e16cfa02f39113481ead355230f8fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/fallen_gems_affixes-1.20.1-1.3.2HF.jar",
+      "hash": "1754acfeb1bea97dd5e99e53912b72c14efba0cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs_curios_forge_1.20.1-1.0.4.jar",
+      "hash": "e09eb503cfb62fec1264321dc605cbcace5a58c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejsdelight-1.1.2.jar",
+      "hash": "198fb6534973e04c353287de7234df557834ddc8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/kubejs-forge-2001.6.5-build.26.jar",
+      "hash": "8b0cc9797d4ed00fd2d1002d58960af8b32012ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/powerfuljs-1.6.1.jar",
+      "hash": "aff030e4fadb788201599e5cfff325f171b5028f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/probejs-6.0.1-forge.jar",
+      "hash": "5380211b1c2891f454a136545721526b184d8513",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/rhino-forge-2001.2.3-build.10.jar",
+      "hash": "c83c9b719a6bab33fbd2b3f2f680eb3adbfc1aa1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "mods/FarmersDelight-1.20.1-1.3.2.jar",
+      "hash": "397763ae36dc2e0f526e0338c875850437580157",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl.dll",
+      "hash": "0c9b501520c20055ba77bbd8cae4895fcb1cfa40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/glfw.dll",
+      "hash": "3c0e8e7fcbc854a87219fbbfd181c2cc76018144",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jemalloc.dll",
+      "hash": "e25eae45e9cb2f17380279d3edc89be5520bebdd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_opengl.dll",
+      "hash": "8f1bbc60d651e010a6e1734547aec9e9786ffdbe",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/lwjgl_stb.dll",
+      "hash": "5d7a779e99f85af814b7a9dd6443b11b5a678bd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jna7041489893095053543.dll",
+      "hash": "526e95d2afde5ef07dd0aca671261dfbc7fcfa17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/jna7041489893095053543.dll.x",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "natives-windows-x86_64/OpenAL.dll",
+      "hash": "900ac280d11730ec4b774073ef748cc81fbbdf14",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fml.toml",
+      "hash": "5850d014d8cc0cb6e529a9630398080506f90262",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/apotheosis.cfg",
+      "hash": "9403c2db0310fd36f83f7deb5d66b32559c2ae15",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/potion.cfg",
+      "hash": "81654e6ba18671ddf0a2831ce87ae4ccc02455b2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/enchantments.cfg",
+      "hash": "8d2bba14001906cea851b09659c1847e8179733e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/ench.cfg",
+      "hash": "20df5d6c79905c6212c6012dbeab01246568ac41",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/garden.cfg",
+      "hash": "401b141eb39d8f122a5489b5c1355a07f6024ce8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/adventure.cfg",
+      "hash": "dff7174c4b7bd753617af4b62c50c0c685dae78f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/names.cfg",
+      "hash": "7956ca8de88ddf8a48625cd102336e6d706b285e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/village.cfg",
+      "hash": "3c44b7afd2c0193e0567128da2565cd60eccbaa4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/apotheosis/spawner.cfg",
+      "hash": "1ad20e70a8755440136ca6c9cca6ce5a280d9023",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/attributeslib.cfg",
+      "hash": "acc0250cc5e4418bf5571ce486eab6042c807ad2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/blacklist.cfg",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/recipe-category-sort-order.ini",
+      "hash": "a741508ee33dcd5cc3b85b8ed4348743526cc477",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-mod-sort-order.ini",
+      "hash": "78330bd0afb8143590a699d2bcfec69025f9a775",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/ingredient-list-type-sort-order.ini",
+      "hash": "294f58dc942e6a007e96abc7c321398cc985e8ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/world/local/lookupHistory.ini",
+      "hash": "55fd8d1187dfe7ea2331af56c1e410e128519bdb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-debug.ini",
+      "hash": "f9bc860103810eed50e7e116dd960c2cb961f55e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-mod-id-format.ini",
+      "hash": "463229eb371eb1ddedf018aca6199c85267b41f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-colors.ini",
+      "hash": "a9467c371d970f3bb88284e5878460e052589fc1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jei/jei-client.ini",
+      "hash": "0f021f42f3b972d0e6a3af28cda01e290611329e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jeed-client.toml",
+      "hash": "c3dd867e2224ad16fc5812a2597405456eef4b13",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/forge-client.toml",
+      "hash": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/sort-order.json",
+      "hash": "d9c2c839093ee1e3710b3bfc9e3bd8f85736ccd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/hide-entities.json",
+      "hash": "548656ff89ad489730a4b5fdf071a6e98fcd5033",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/hide-blocks.json",
+      "hash": "8b3297cc5db5ed84dd48d2905fb21ee3063e0e25",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/plugins.json",
+      "hash": "f44c9e6248aae6c9a9ea9706c1fd96366bec1e03",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/jade/jade.json",
+      "hash": "2fb491dec13b7ad7d2f47f6b4a5a177efb31031c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/curios-client.toml",
+      "hash": "3034250c05362494c9f366e5cca449dcea88885d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/irons_spellbooks-client.toml",
+      "hash": "2f0f31a0f0e9a50412e6f720c5f597e15c9db03f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/curios-common.toml",
+      "hash": "5f5b26c3022fc08081f68e61283252543cf5ac45",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+      "hash": "8e4549c4388f63fe554384ca722283287b31811d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-client.toml",
+      "hash": "0837b7da65d2d2b5fe8430ecddae8a97379d8c55",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/farmersdelight-common.toml",
+      "hash": "5f3a0af48b61c6b2935284df7282d6a32fad7414",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "config/fallen_gems_affixes-common.toml",
+      "hash": "6d9a84b515c4a30d9d615540504956cebf1c976c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/session.lock",
+      "hash": "2686137311c038a99622242fdb662b88c221c08d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/playerdata/176cb597-7c9b-44c8-beb8-652106ac7f7a.dat",
+      "hash": "88591b7397818e966500bf8caf966469218d7a7d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/jei-server.toml",
+      "hash": "42116951c59040069d77e9992f74dd22266a25b7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/additional_attributes-server.toml",
+      "hash": "d0e2c43ab87204f9802a9c4763db3368ef7d557b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/forge-server.toml",
+      "hash": "aee386fde8148376189d141c11e93b37a42a7ab2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/curios-server.toml",
+      "hash": "a479b5d5c10937a1b5ca81960605b8f817667fa5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/serverconfig/irons_spellbooks-server.toml",
+      "hash": "3bebfac7f2bfc1ce1f34c59025a255c1df36c698",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/data/raids.dat",
+      "hash": "12c9a8262fe947f307f0ffe7b9259ec380d1bc99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/data/random_sequences.dat",
+      "hash": "a01316d55ca635ab09e2db3198b2d9f822df09bd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/data/irons_spellbooks_data.dat",
+      "hash": "a92abc9de1e7ba59a1fbdcf6b18e749cb2bd257d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.-1.mca",
+      "hash": "3766888480a95e42fd66e25c07403098df8b5ec0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.-1.mca",
+      "hash": "107fa1521a516b5fa805ba8b45552f21ba4e3136",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.0.mca",
+      "hash": "bbab1259b68afb7ae4949602a3cab560ca1eae35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.0.mca",
+      "hash": "cd6400122f5e1f018b22ebe9777e107ef6003892",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.-1.1.mca",
+      "hash": "08574eff11416bcaf197677c8f3a52efe4a8643b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/region/r.0.1.mca",
+      "hash": "351b1c8ad945823a11909a821ba28bdd6ee35f6a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/DIM-1/data/raids.dat",
+      "hash": "12c9a8262fe947f307f0ffe7b9259ec380d1bc99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/DIM1/data/raids_end.dat",
+      "hash": "12c9a8262fe947f307f0ffe7b9259ec380d1bc99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.-1.mca",
+      "hash": "bf44b5588d79d91ebc474de37a2f6360447297ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.0.mca",
+      "hash": "1daf057bb5770e72a20a2d0a133fe17a999ec69c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.-1.mca",
+      "hash": "fd43056206e3f64049465a9f000fee0b7c3b0c30",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.0.mca",
+      "hash": "fbd519d055893863c2b579781a9d0d5ab5f7152d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.0.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/poi/r.-1.1.mca",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.0.mca",
+      "hash": "6713192fc73504f747e292bfa8b6a752301e7bcc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.0.mca",
+      "hash": "fdf178af1da6c2783ac4ec8f95273e61af2669db",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/entities/r.0.-1.mca",
+      "hash": "49d3096dc2d25d4ea0474130ab5c97ceaa2b111f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/entities/r.-1.-1.mca",
+      "hash": "bb36e210ed05225d9d170cb43555d6e6a5a74667",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/icon.png",
+      "hash": "bc8fdc64432769ff7c1f1227cfe9c07a7657ce6a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/stats/176cb597-7c9b-44c8-beb8-652106ac7f7a.json",
+      "hash": "6f0ead957b4d0a39880be2599778e3b3f9934c8d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/advancements/176cb597-7c9b-44c8-beb8-652106ac7f7a.json",
+      "hash": "f67881b811ce30f39ec95e5928b58d2e0b855e77",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/dimensions/irons_spellbooks/pocket_dimension/data/capabilities.dat",
+      "hash": "9c53219da9874dbf11db5919b455f9170e11c510",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/dimensions/irons_spellbooks/pocket_dimension/data/raids.dat",
+      "hash": "150a638a9ddd264dede24db9795c97f5b864e555",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/kubejs_persistent_data.nbt",
+      "hash": "e84946f105e6a3e5a96aa7679a9b2b9a36859eed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "saves/新的世界/level.dat",
+      "hash": "f9dd13dc9eeeeb838b1f6813d6241c7ce3649de4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "hash": "87f5ec8c26493050fc83543af8d33f2d28a98766",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "hash": "d9912cb709ad496b10f19f8b2c66d1e419eb760c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/heart_of_shulker.png",
+      "hash": "f66ad99ca5be380501ad972f7bae13a579428950",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/kubejs/lang/zh_cn.json",
+      "hash": "ecdf6ebeb8f8a26a89bb23365913dd0a49a47d8d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/apotheotic_additions/lang/zh_cn.json",
+      "hash": "22ff23d48344e560c50da8502abb6c540c8359cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/additional_attributes/lang/zh_cn.json",
+      "hash": "2d8256b9728534f8f5c6f8fc5ad2a82317db3506",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/apotheotic/lang/zh_cn.json",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/apotheotic/lang/en_us.json",
+      "hash": "69523eda7292ad47043c2a38ccb3edff0e49e97c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/BF-Trans/pack.mcmeta",
+      "hash": "00f6c51d321a2cd32dc0187baec99400e60e10e5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/apotheosis/lang/zh_cn.json",
+      "hash": "7f179319c69b7fa3293eb2f17928d6931e0b833c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/apprenticecodex/lang/zh_cn.json",
+      "hash": "310a2f9d8da33704646e5d0748b44aaec64086d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/block_factorys_bosses/lang/zh_cn.json",
+      "hash": "50090ffe0e56488751c523008ef48882304a69f9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/dotcoinmod/lang/zh_cn.json",
+      "hash": "afa8bcf8418383079afc5d40df70fd7bb81528a7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/explorerscompass/lang/zh_cn.json",
+      "hash": "6cc85510bddc12f2237f9b6ef797fa6aed03b32a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/fallen_gems_affixes/lang/zh_cn.json",
+      "hash": "644df8e0bbaf3940b8dff335ac09d4861cec784f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/zuoze.png",
+      "hash": "cdd9e719b50b184bc03423adbed0e366159a0424",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/workbench_c.png",
+      "hash": "f1e6e1b47c083150d914b835259de4a4337af492",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/title.png",
+      "hash": "1626c94cdd06c36d2802d19d890b470c459d68ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/stone.png",
+      "hash": "ef365f3daec6af5dc5cb3bb43550f8067f16270b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/magic.png",
+      "hash": "d1cc6221a32824e976cc745a322bf04ce6ea568c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/gun_smith_table02.png",
+      "hash": "1c14206310c17cdd7dfe4a40a5f13b15ca466aa4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/gun_smith_table01.png",
+      "hash": "757317b38bc93afb11e3b4a054b8a16b1a272877",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/arctic_base.png",
+      "hash": "3ae4dc24a4e7c04f9fea3d96f2d40d0213ab3ca5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/anchor_3_map.png",
+      "hash": "6ad8d3bc3f3f4b484738f8e105f68445b5faf16d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/anchor_2_map.png",
+      "hash": "51fae19205f75c6a2756bf12e73acd329b6a842d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/anchor_1_map.png",
+      "hash": "bb53332f64e1dc250c9526edd4aa8a3eaa1027e4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/picture/ammo_workbench.png",
+      "hash": "579f03ce413e15d25cf220f1ddbdb37fb89ad4e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_z.png",
+      "hash": "9775fdcd13eadb4f733c7d3a32222666a738d329",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_y.png",
+      "hash": "b9d05ea7806476193fca1717d333896c016ab82d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_x.png",
+      "hash": "a1e2223f22765ec3eae1e0d2a86afb81e28e7d17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_windows.png",
+      "hash": "f72498ea41b5e59035d5e31c0d581789e69f49d1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_w.png",
+      "hash": "9e7a0e93edf616ec94fd01612b3396843908a649",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_vertical_bar.png",
+      "hash": "3af759ba302a7f654e3d7665bf6d6d32cb29478e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_v.png",
+      "hash": "4b652a0f653dc76e60f1762bb2da3cfeb4bc1455",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_underscore.png",
+      "hash": "d5d7f280bc3ae95a3186072c986e230eaf183a2a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_u.png",
+      "hash": "d158c17fd6179ebc5bd1b17457435382fef2b7f2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_tilde.png",
+      "hash": "59c7f80c11453ab0d8d45c9faf43f37059ac6a7f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_tab_icon_2.png",
+      "hash": "04c221161b1b818f53a6bb81ca5648183b99680d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_tab_icon.png",
+      "hash": "5decb162e684db92ef617eb706dd009670114a11",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_tab.png",
+      "hash": "0d3067661353788fe9e7674b9c6b53e80dbe61ad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_t.png",
+      "hash": "377a968f6ea802026c5872fc4e119561efc5e277",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_square_bracket_right.png",
+      "hash": "bab3a6837c88f96cb46404e431713088ec4dee7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_square_bracket_left.png",
+      "hash": "c22c7e1f384c2708cebf2120c9a582e1f03a8115",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_space_4.png",
+      "hash": "1bc53bceb2d9a8f2296bc3315335a0172ab9b0b1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_space_2.png",
+      "hash": "38f0f891a5f1b0765c551e712e8d7ab4f5c7f076",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_spacebar.png",
+      "hash": "467948fcde9697f3ccfe75395ec520abdb061875",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_shift_icon.png",
+      "hash": "0b8ebd299ebe90ac112ab0f8a5d9d6fa4a47f8ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_shift.png",
+      "hash": "a384ac0008d50db962cef87416d29e342bc8e0c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_semicolon.png",
+      "hash": "da290372a57048bd631e704f297708d878d1022d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_scroll.png",
+      "hash": "0302565ec2ab392c2eb6967802d225c75a67fa57",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_s.png",
+      "hash": "ebcad7ed38000df54503a1c85a531887623774ac",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_r.png",
+      "hash": "6eec7b80539af53ac7cff647ffd776f9042f36a9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_quote.png",
+      "hash": "43b9056f54343b9fb78e15f96c9efd011f07547c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_question_mark.png",
+      "hash": "cb4cf2c68fdf2394d4c6c62859f2d03358e98448",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_q.png",
+      "hash": "2770fa629c2580a0a73bd07136309ae7a1faccd1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_print.png",
+      "hash": "f383379a0be0af8180b8251c6be4d50119227634",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_plus.png",
+      "hash": "2436a1d0d53529f9de9f9fae8b09f6d0297770e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_percent.png",
+      "hash": "1753666d94a3f7794b48cbe48fa3f9b0a797b868",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_pause.png",
+      "hash": "b39a6ea32b44c800b6bfb8e680513c207b1cd9ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_page_up.png",
+      "hash": "759eb7e7dcf9bd49baadb1885f9ab4257dfc5158",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_page_down.png",
+      "hash": "ea484bc18b03dbea9179355c5567379e4968fee9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_p.png",
+      "hash": "bc00b661af904fc3835ee201acf5df16b9b78843",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_o.png",
+      "hash": "d7918be17ff48a869b51b643277bc52d8993ad8f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_num.png",
+      "hash": "f45679493ede680a720d4c75bb335ebe6fa91cf5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_n.png",
+      "hash": "74fa38f91d86e9b9ac5962ba377a5292d7c77f04",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_money.png",
+      "hash": "0d54188daee6f615a2a136a8dbc4d6d9b8bade53",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_m.png",
+      "hash": "194cee8f076289f3e7e7912169314d1d409cf88b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_l.png",
+      "hash": "b9665fc5f7535698a2ac5719ce84084b930e7387",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_k.png",
+      "hash": "502b182dad49858a07449052f4cebfde774dc903",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_j.png",
+      "hash": "a5a62d77bd30b54e0cb54e6716f6d8751c48c90f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_insert.png",
+      "hash": "15deb9c85b6d103e10b7ce3ce97939d8431b9a35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_i.png",
+      "hash": "be6591145792461d5f6423a3da917a050a6862e2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_home.png",
+      "hash": "8ec80fae6bc031571a354d54263038eca406eebc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_hash.png",
+      "hash": "8daa9474f3770e15ae47356925bec94bf4547c4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_h.png",
+      "hash": "d14b0f2789aab625dcba962fa58273f6af55c15a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_grave_accent.png",
+      "hash": "f3da9e6e68fdae832aa1a048b7ad3bd34d9b4de8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_g.png",
+      "hash": "b9aefed86cafccaeb3ee4415e712f2c7d8d27a8a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_function.png",
+      "hash": "01082294340b51803bfcd9e035df4be33d630c69",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_forwardslash.png",
+      "hash": "813d9e5a0f077cc59082ed9da80f1eddaa55be65",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f9.png",
+      "hash": "2603e2fe0c748f772c25e01189fd10e2a6291f90",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f8.png",
+      "hash": "2a2e108e8d013ad85dc26d8e95bedf90d23cc2d5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f7.png",
+      "hash": "5ec94218b909124ba9ed7b76adf8525ded274596",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f6.png",
+      "hash": "fb55856627e2e37329c6a1c03ae3b9a346646e58",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f5.png",
+      "hash": "ebcb05c61e19c8af27258cd9d3c9af79d682d0d7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f4.png",
+      "hash": "e1fe3ac3abd3f719a1c7644963dd66df90291c04",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f3.png",
+      "hash": "945518942840a82cdb61fd70c1f66372c1c82866",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f2.png",
+      "hash": "3a6d28648224da5f1de393935f91b57ca1c9afc1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f12.png",
+      "hash": "b873d063fa5be500867fa48cf54b3bb92cdbb538",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f11.png",
+      "hash": "57433aae2b01ae00d56fb4ff6791b4bc1ddd53dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f10.png",
+      "hash": "f1a875fbdf3cf3c397120de6834c4d90228ab276",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f1.png",
+      "hash": "670ccbc976a42294d84465153b75735d8d7aaf60",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_f.png",
+      "hash": "8e00139436e2201fc43938b641b341d7be162add",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_exclamation.png",
+      "hash": "91eced60e6f5fe0001de310b43ab511625fa2ae7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_escape.png",
+      "hash": "f22892469a45dce66c9132fcfe5fbda0af12c6a5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_equal.png",
+      "hash": "f4fb4e183424157719ce3e27d1a7737ffcb10ed2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_enter_icon.png",
+      "hash": "309217b0087b06bcd47c12abe844867783741ba7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_enter.png",
+      "hash": "405edc4600e5c69a6fbeb7358f38babeff68344e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_end.png",
+      "hash": "8dcd493e60b41a3e502a5815e6d8bfa679389a11",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_e.png",
+      "hash": "8c05606fc1d83cab3f1a7b62559e350799b2779b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_double_quote.png",
+      "hash": "65013ada69a9bcd3ef15f55940cfacc6d7216c07",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_dot.png",
+      "hash": "7abb72bb97808d4c7c670078a636eeb323b3a0ce",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_delete.png",
+      "hash": "86ed1199e7b2e45aa0799fa0e2159c1a4ec09cd6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_dash.png",
+      "hash": "7283c1aef08dad18686f1003da9bab449ec03d53",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_d.png",
+      "hash": "5949c19a6bc69589e088ea81874170319f2cc094",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_curly_bracket_right.png",
+      "hash": "95db47c3db542be6a39715079f78811780a2bb51",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_curly_bracket_left.png",
+      "hash": "dca247781da8bb0de98641bbe2bcd736fa26013b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_control.png",
+      "hash": "1da8f645784c2eb080d405cf4f0b43ddf10d300f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_comma.png",
+      "hash": "bb99e22b4f654bc6fda81810a0d5ba8ffa7d824f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_colon.png",
+      "hash": "983dcbf07e9b37c06bd24541ceed301074e63b63",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_caret.png",
+      "hash": "64a5d86f1ebc289e98bda741f554bacd343af9cd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_caps.png",
+      "hash": "9e6dfc8c501861cd7bfdc6104917a7d645d39626",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_c.png",
+      "hash": "bc4b34d246d48213944da83fc0dd5469dc324440",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_bracket_right.png",
+      "hash": "8a9f7c3d1a433b72b7a0a7d71bf38ac3f14148c4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_bracket_left.png",
+      "hash": "eb5ebb9bef9f373a0b923271148e2f4ed4fcdd9b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_backspace.png",
+      "hash": "df94b822683d8ed51eba3a81d9a91e005eb6f6ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_backslash.png",
+      "hash": "4a583a23b24db331bca18f107a7962ca3ddc5642",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_b.png",
+      "hash": "6e53dec1af2c2b402c9f10e1efc58e4dc0359bd9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_at.png",
+      "hash": "e8eb44e954f2e38fc9c12f6437241de8fdbeff5f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_asterisk.png",
+      "hash": "37edf1ababdd4b28b83d1bb63083e618d19ec627",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_arrow_up.png",
+      "hash": "55d151e9957d6e2d39abdf41fa5c3c7169b85ed9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_arrow_right.png",
+      "hash": "775ef50fabefbcabf7225ec44d90ec4501eeb818",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_arrow_left.png",
+      "hash": "a1f4390d6a8e0e3fb4dce11e0589deb7eaa8a505",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_arrow_down.png",
+      "hash": "623ea5b089c92913bedf1e3342a30c2c1faa0d78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_angle_bracket_right.png",
+      "hash": "fa82173579ffc5e4c79579a5f319e4217c1c913e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_angle_bracket_left.png",
+      "hash": "35b3088bb44f15bc5cdb0cf630804c0e5a7814c9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_ampersand.png",
+      "hash": "b35dde23bf803e32985dca33bf8374869d258a59",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_alt.png",
+      "hash": "0ebaeb3d1597238e53d2ee7ea1dd7a97725eea89",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_a.png",
+      "hash": "9ea013d0fdde700fef48188bfbdfdcae09fb9340",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_9.png",
+      "hash": "4b336b09a673e109e999a74c81b50bb30a4784dd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_8.png",
+      "hash": "1042ff2c85a37469e96735f4349d3c12803bf8fc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_7.png",
+      "hash": "85bfc01233607a4cb8f65c49735a13ae5faff88e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_6.png",
+      "hash": "940e7b29670a96fd03756b86ad8373742f3ffd98",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_5.png",
+      "hash": "81ac54bb92346651922aa9b63e35912e62b0aef9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_4.png",
+      "hash": "3ccec85ada7d614590dce60b349cb53acd859646",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_3.png",
+      "hash": "7bd9f710f7bd758a0512b4b41609992f4afac155",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_2.png",
+      "hash": "5a9df763e9df76598a22fb5dba84567214c2f207",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_1.png",
+      "hash": "4c8a8e43554c6eaf8cdb74ce65a67c056d1f082b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ftbquests/textures/keysss/pxkb_0.png",
+      "hash": "68c7f1576300a1b5398393a99f81227850fd199b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/gtbcs_geomancy_plus/lang/zh_cn.json",
+      "hash": "e5c98cdd6a99c45439838bffcc42bba168f3cdc0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/heart_crystalslang/lang/zh_cn.json",
+      "hash": "cd587be06df76bac07fa9e1ab75962d53c17392e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/ias_spellbooks/lang/zh_cn.json",
+      "hash": "d1e45993f8a8a834a4149b91e066fa9022b21543",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/monsterexpansion/lang/zh_cn.json",
+      "hash": "b940fd6d0175b1fa3ab03664882a3e47234a9fc2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/mutantmore/lang/zh_cn.json",
+      "hash": "be6d6b5e5b325b33eb09a1f9072f0f92db4cfce2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/refined_mod/lang/zh_cn.json",
+      "hash": "62a3e63db1c000c929e2e5faa9dda252a1c4945e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/relics/lang/zh_cn.json",
+      "hash": "7d6c4049141bcd0d7675a1cbb16e6bdce942af11",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/uniqueaccessories/lang/zh_cn.json",
+      "hash": "552dc4c4ced6757136cd6fee752373417cc0e9ae",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/pol/lang/zh_cn.json",
+      "hash": "8d57f2b98c791b55e9f216fb55a51b2381fcb7ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/assets/pol/textures/item/heart_of_shulker.png",
+      "hash": "f66ad99ca5be380501ad972f7bae13a579428950",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/probejs.json",
+      "hash": "43c125eca008b7743f9659c8de495c8ebaae7741",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "hash": "d3f287550b6b98a268e62faccb9accf60f748aaf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "hash": "b265b1d883da93c7537246a05fc668b19f454ae6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/README.txt",
+      "hash": "3e56c097cd0c5be61b767a9a9ae73ae083d2eca9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/startup_scripts/example.js",
+      "hash": "bbeca4224e5e4dd007400d47b0f1e6618e8c68ec",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/startup_scripts/src/item.js",
+      "hash": "16ea5ec0eb42eaee8c20796a9078c33184a58c31",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/client_scripts/example.js",
+      "hash": "dfe0a9197b4b80a3f1235afa6f825857d9ead98a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/example.js",
+      "hash": "bd94dfc74125ef76f07adb19356509a93184587f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/l2.js",
+      "hash": "572e9bea72a776134522fd520d4c5503d4dc10cb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/hecheng.js",
+      "hash": "619de3e8cb718f4116c0e8e58037fb06d5ed97a1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/ability.js",
+      "hash": "cc9d90a2fdc1b1475a707adb5c83bbb6e6e39c4d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/terra/shackle.json",
+      "hash": "0416d6df13d0764e18f94de0034b278a8df9077f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/terra/ichor.json",
+      "hash": "613ab4458aeebbb6122b27a1daff45c97d6c0c50",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/src/terra.js",
+      "hash": "6559253f57239d350192c5c80a161bdb519425aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/server_scripts/src/farm.js",
+      "hash": "b967b804b7e08bca13c87298e16f6c4f360b566d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/index.d.ts",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_0.d.ts",
+      "hash": "bd4e5080dc12928d163b82ed255dc2d811d75249",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_1.d.ts",
+      "hash": "b8a8ce9b9f6419276899c7c1bb2acd234c9102ea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_2.d.ts",
+      "hash": "5b269f1b72e9e3d919e4d61935136115c6642fc9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_3.d.ts",
+      "hash": "c7847e8f2e216e99f1709d7e5f2e46fbbdbdf362",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_4.d.ts",
+      "hash": "8e6865c9c36ac038e2b5e9d29d113998bb36a0f1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_5.d.ts",
+      "hash": "cca312695c11307199bffbdd738c9f0d0cfd1d8d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_6.d.ts",
+      "hash": "9ae5aae01a019eecaeee815a58710afe80d2d638",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_7.d.ts",
+      "hash": "c725bfdbbd157e1e70d974fe15849d7698ad359c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_8.d.ts",
+      "hash": "55c9f47a1468d7a537052d798a4ad622bde5d867",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_9.d.ts",
+      "hash": "95f10773f7eac0162168a86802d78004791decea",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_10.d.ts",
+      "hash": "4d32183c7716d1ffde6bbbb553f085500e404699",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_11.d.ts",
+      "hash": "d6b73e0d9518c5c3bc52dcbd1e2e0b34a482e0d4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_12.d.ts",
+      "hash": "86cf1300f8a0e2b88fdb876d98d3c0bf9ad61ae8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_13.d.ts",
+      "hash": "13af34295981bb3228a23a1e4e1fe50544b5b9e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_14.d.ts",
+      "hash": "b21f0e27133058d8227fd23f5591966a42147f1c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_15.d.ts",
+      "hash": "cacaa548dc9ce41f56d28d3de9706569e1fd47ff",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_16.d.ts",
+      "hash": "0a17c9595c27b3d8f53a49c4e4abdfba0e26ae5b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_17.d.ts",
+      "hash": "d8ae978b275303b046a782dd2c4ffb59a27917bc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_18.d.ts",
+      "hash": "ce0dfe84c05acbdad7592bfeac37d18939bc179d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_19.d.ts",
+      "hash": "212fc98df18b2474eb59eab772fb216cb637f874",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_20.d.ts",
+      "hash": "cbddb47775d162b3e7836a40ce863b72beb9e08d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_21.d.ts",
+      "hash": "f5a17ed4bb349edd3fc13c8182b379ec0b3b865c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_22.d.ts",
+      "hash": "a530c762282677663f9ed7d691eed5d35b6eebf8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_23.d.ts",
+      "hash": "3897d4184d4127d740b8b33846ced50a31410c7c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_24.d.ts",
+      "hash": "40db60122b3e67a3631882d99383f4d7d7ae2e24",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_25.d.ts",
+      "hash": "59955e40346a249ea3eaa157d12666a3238bbf4e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_26.d.ts",
+      "hash": "23c787f1096bc658aebb2dc724989c1ca534d324",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_27.d.ts",
+      "hash": "13ae91292b30cb306488aef74fbf419eebdab417",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_28.d.ts",
+      "hash": "ae203d2cf7e272e30ddd9d1c374b7655b7ea4431",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_29.d.ts",
+      "hash": "ae36d910508bfb2600e998c4414bd6af9eec7dc2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_30.d.ts",
+      "hash": "b536ab49d4e7edb36854ea3b82f6ca153ad45a54",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_31.d.ts",
+      "hash": "287abdb0be37bd48c6f6ae5e99de3d927a8e8641",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_32.d.ts",
+      "hash": "f9452b67861f8aca8df0aba8aeb2f23da5933946",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_33.d.ts",
+      "hash": "235edf2684b31aa02e9d1597c709a04f597fefa0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_34.d.ts",
+      "hash": "241d7fcbdc5fb79278af41c84dab94633d56e75e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_35.d.ts",
+      "hash": "95c45ea83c19ebcca35ba82d0bdabf1894bee8e7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_36.d.ts",
+      "hash": "690bab9e03128a9ea5ddd5cc8dd3c654627e6d9f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_37.d.ts",
+      "hash": "b543626025e372c8c4a38dede40afd31c39dd37c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/internals/internal_38.d.ts",
+      "hash": "9870f35f7f0ef447a58492fa73b7903cc61754b3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/globals.d.ts",
+      "hash": "84acad3bd00ffb017e3922fb842730d75dab730f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/registries.d.ts",
+      "hash": "b733777c50d59eed96959c2244dec7c2f9e1dfaa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/tag_events.d.ts",
+      "hash": "42db55edfec1bd2e7aa41020aa79acc6f424ed5e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/events.d.ts",
+      "hash": "c2ec8271e4f5f552e84b22f529e3d5ec73b1a620",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/constants.d.ts",
+      "hash": "683c3728f500f8e39f95edbf259f08679f3fde40",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/names.d.ts",
+      "hash": "0820108d2fc0a357616e23e17b2481332130d1aa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/generated/raw.d.ts",
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/modHash.txt",
+      "hash": "a79ead593fd9f436ee63de7ceba24b95e7d2c5cf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/dynamicjs.json",
+      "hash": "00dde16703ed20afecf1eefe5af99fcdc2fe1b66",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/events.json",
+      "hash": "c2c3e1dd64c827f66f06c25d692a7592400d95ef",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/kubejs.json",
+      "hash": "ce3324f571ead4a5d506dde5e843a0e0c1614e04",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/kubejs_recipes.json",
+      "hash": "a28d3a2dc23eb269a743bc6bea0ae0f2089db9d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/morejs.json",
+      "hash": "92f44b525385bfc307cf4a88cb8107203c0356c6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/probe.json",
+      "hash": "8489fb707514f8f3739da624dea616ecf1aef611",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/registry.json",
+      "hash": "b83f9df0638dca6c706b8e3e7cc20683d2333b70",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/docs/types.json",
+      "hash": "af047b73f6a416872a445498d621f4f6c70a8a00",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/cachedForgeEvents.json",
+      "hash": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/cache/cachedJava.json",
+      "hash": "97d170e1550eee4afc0af065b78cda302a97674c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/probe/.gitignore",
+      "hash": "d7777c2323a1935a0c58f53351b275ebf34df237",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "kubejs/jsconfig.json",
+      "hash": "99f94ca0c3c08ef6b7dd5413d4d86581d9e82fb8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/dev.properties",
+      "hash": "114e9c13e5d427020312e5e3c3c1f40cfa1b964e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/recipes.md",
+      "hash": "380e6fbb6665efa4383bdfdeaeffa02a49a1e52c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/specialRecipeSerializers.md",
+      "hash": "86aab6f46bbfee32d123a69cbcd9d733d9cce732",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/compostableRecipes.md",
+      "hash": "4a369b0e6dff2d36be5da024d481ea0503a9074d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/entityLootTables.md",
+      "hash": "a04170f6e1550029cd823bd45ac78b213d1d759f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/tick.md",
+      "hash": "79cbbc59d4ffd6caac751be75ed472789f3ae3e6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/command.md",
+      "hash": "a8962f4289a35cf2a3494645aaab0b1864cb749b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/blockLootTables.md",
+      "hash": "c662fb46453408d68427e605d9d1bd604e1f62f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/tags.md",
+      "hash": "56a89877c4f8b05533d63fb0c5984fae54be936a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/loaded.md",
+      "hash": "5cbda52c9d76cc9fb998a1d7574a927af84ec2ab",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/customCommand.md",
+      "hash": "6ddc730b140ce6aa64f0ba786ed044221600fef3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/giftLootTables.md",
+      "hash": "3e46cb0f89bd1dbe63f2d9af731e2bc6abb2538c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/commandRegistry.md",
+      "hash": "92a542466f7059cad308c5fcba6fcf006dd20ce4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/afterRecipes.md",
+      "hash": "93a6a5710e538c35a1ee3eb2cc0a7bc3dd8c71f6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/chestLootTables.md",
+      "hash": "a012aceec919705a67652f94d98b8a1321c5b54e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/unloaded.md",
+      "hash": "07b681024f2fb84e8aae604e9be9cd9bebf7bb9a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/lowPriorityData.md",
+      "hash": "8850076d9b0484d4a9aa00a6facb55c5b6a1251a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/fishingLootTables.md",
+      "hash": "aef477503e6e0dacf0585687e2a249e920ec13be",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/genericLootTables.md",
+      "hash": "82a6cc42353ba4e0220b89c6048cf1953fadd1fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ServerEvents/highPriorityData.md",
+      "hash": "eb59b836b4a7befb82195e2df03ad3d1ec02c498",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosEvents/registerRenderer.md",
+      "hash": "230519a2117feddcc0f743e456556e25876d7aaa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/WorldgenEvents/add.md",
+      "hash": "89998de7ecabc8a26b4b01d296b8b1ef3b4fd33f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/WorldgenEvents/remove.md",
+      "hash": "62785870b99502c7b244a48ae61240e129b9b60f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/NetworkEvents/dataReceived.md",
+      "hash": "0aa095c025a164b388b1efebd7df9749af0d413e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/hideItems.md",
+      "hash": "b6e6c1380896cb0330311896d62b258671bd1115",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/addFluids.md",
+      "hash": "9fec9d8b6b795c275b63c2c242a73a7e4cac79d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/hideFluids.md",
+      "hash": "5a861a4255da977b2505964ad05403a2cef75c36",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/removeRecipes.md",
+      "hash": "e3c49086c516461883730441899c5926e8aa0f85",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/removeCategories.md",
+      "hash": "0263a4cd1596edfd2089b0d316b688eccb4fa29d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/information.md",
+      "hash": "caf5f340d3ee1062eb0f7479dc7df79d00b903ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/hideCustom.md",
+      "hash": "32bf603e68760d3c06ced40957a15fa45d4a19b5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/subtypes.md",
+      "hash": "3b6a30c857765ac17ae90e5ec5a523b034b0666b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/JEIEvents/addItems.md",
+      "hash": "7a4c940e213cd453ae0cfb8bbfe33988fceaf679",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/decorateChat.md",
+      "hash": "f2628c251c6a3549a64316e4ff20c91499d0cef0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/chestOpened.md",
+      "hash": "d9307aee9ceb55136d903fb0fee96e19359049ed",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/advancement.md",
+      "hash": "a8a79ccaed04373a8b9e1fb92b6be13f369b17fd",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/chat.md",
+      "hash": "b248d51927ed17a05940f57e32bbf249a2b4e7e3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/chestClosed.md",
+      "hash": "e7b948be23cc5717496d222bb280fda3d4879340",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/loggedIn.md",
+      "hash": "b491660c398f4c2457be19ecc9760a3c5f873ba6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/loggedOut.md",
+      "hash": "a62441367293d7342f7b441dc78d7a81e26884c8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/inventoryClosed.md",
+      "hash": "7961f5b3dc4e8a7542c529fd7d0648c9a7ac5da3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/inventoryChanged.md",
+      "hash": "7aa0ffb2ff4882f0b6e008def835025397c0245e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/inventoryOpened.md",
+      "hash": "76a62f8120d57dd2d9b3635e7671a43fd59dffaa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/tick.md",
+      "hash": "2751bbb82244a109699acf3d31c6f85bbea50a08",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/PlayerEvents/respawned.md",
+      "hash": "d781fbf5243dd329602fec644574836ba0b0af3d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ProbeJSEvents/fileSaved.md",
+      "hash": "ea67e1801f9faa272bb61592a66eee88cd4124d9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ProbeJSEvents/generateDoc.md",
+      "hash": "64ad1bcb898849c0907dbf400abdf7c112082e99",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CapabilityEvents/dynamicItem.md",
+      "hash": "e54e1655a2ddc6e40cc5b09140fc48dad39f889c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CapabilityEvents/blockEntity.md",
+      "hash": "9fb1c37a61e5b5e7a2884d8921fbb92b9e49749b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CapabilityEvents/dynamicEntity.md",
+      "hash": "b7b1aec9a657f7a2ff4d8e18e98dcd4453558587",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CapabilityEvents/dynamicBE.md",
+      "hash": "92c374be3c8dacf2efcb3002da9153114140924b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CapabilityEvents/entity.md",
+      "hash": "b7d9df4b533689f45970a323a32d11f934f0d857",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/rightClicked.md",
+      "hash": "045b329496918001524be3eeba938a44447a7cb5",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/crafted.md",
+      "hash": "4d89aeefe989df7ef598f7a1427c6584c2fb7204",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/dropped.md",
+      "hash": "fb706a27b62b6131ddaa340a0fcc8205efd29994",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/tooltip.md",
+      "hash": "653c76d1d42eeae27b728aa3ea86224bd4c4d870",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/modelProperties.md",
+      "hash": "f6b826313e2f6bed86fc64868dd31bed18389b9f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/firstRightClicked.md",
+      "hash": "94c181c88006af4b1b80e31587968807f835b7a0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/modification.md",
+      "hash": "88145a7b1bd6ab7671c7dbe405e78580a7c21aa0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/pickedUp.md",
+      "hash": "6f7d04bce118cbe16c688bfcf76a02db077f2641",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/destroyed.md",
+      "hash": "67b1e8698ce4206982fd88e6b34bb5373b9737b4",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/entityInteracted.md",
+      "hash": "698856c3bb6d874afe1910dd7314a06f13cc526b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/toolTierRegistry.md",
+      "hash": "a71a7e31bc10e1bcd0959d43b534dd3e8966065f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/foodEaten.md",
+      "hash": "96392ca1af786eb9c2742abacbaf7ffcd4f428b6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/firstLeftClicked.md",
+      "hash": "2dac62d18e9ea11949cc1dea80b9a83560e2da17",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/armorTierRegistry.md",
+      "hash": "89fd28b539ca7da7a99ca432661ceb24de72c4fa",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/canPickUp.md",
+      "hash": "201e7dc1c455e7f09a6f8b2eac223cfc7656749a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ItemEvents/smelted.md",
+      "hash": "3e676d05726f48fd3be411d37e94033c1e9330c3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/LevelEvents/loaded.md",
+      "hash": "e0e29b0982d940d17ca9ac5afd9988fbf392750f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/LevelEvents/unloaded.md",
+      "hash": "eeeb881a39500f666c54556a4883254c4218ea1b",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/LevelEvents/beforeExplosion.md",
+      "hash": "f81d9aef716d1ea9c15289c2a96897e8d8b863d2",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/LevelEvents/tick.md",
+      "hash": "f77d7336a49fb92f3a01cbed929e24ee58440864",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/LevelEvents/afterExplosion.md",
+      "hash": "9e05efa03caf601a9c4856560ed8f4b1dd0a0d35",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/EntityEvents/spawned.md",
+      "hash": "7a93c4d34b6fb583594f9c59a17d011c9f16c8ba",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/EntityEvents/drops.md",
+      "hash": "799064a3bf5763356d9e7a2593c2a16142716ee8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/EntityEvents/checkSpawn.md",
+      "hash": "5a6dc8d23b8b17b0173c6cb9bf728d35bcf0373d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/EntityEvents/death.md",
+      "hash": "f1d9352210a728b56d367750538c86b33f1d3c83",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/EntityEvents/hurt.md",
+      "hash": "c807853cbedad98ad83cefdf77e2e3dfd530c61d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/drops.md",
+      "hash": "5e01b841f79d607002e3c94ee67ccadea9bf7e78",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/equip.md",
+      "hash": "79e281f25bcb2a070570550e94ec0e6b2fc6b817",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/unequip.md",
+      "hash": "e9c384e85e165dda915522c0565dbdeb5ff4891d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/dropRules.md",
+      "hash": "502e5767af7acfc6406c50d163a328b51dc6ae01",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/change.md",
+      "hash": "32679f70dd1cad7b610b58ef5de6bfdb708a17d8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/attributeModifier.md",
+      "hash": "99043e6c4f6d9471e711265113d97fdb95965b79",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/registerRenderer.md",
+      "hash": "8e1a6c6f7417125a21222f2e127375810e85c369",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/CuriosJSEvents/slotModifiersUpdated.md",
+      "hash": "49ae72ef38e9fb196557e493ecfb04498ff457eb",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/init.md",
+      "hash": "4846a5de26b49f1295993fcf3d21cb5757c1c8b8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/rightDebugInfo.md",
+      "hash": "8b9dd3e6d2fa5a8359b062783c6a5d15abe9b824",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/leftDebugInfo.md",
+      "hash": "b038a7fa2aacb94300764a06b69d23cff3628bad",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/loggedIn.md",
+      "hash": "4524ae455fd37e735a1362abba2866ca67901e2c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/atlasSpriteRegistry.md",
+      "hash": "c5934e5fbfd0f8c2b3a36db541065a24c20f8dc3",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/loggedOut.md",
+      "hash": "7d1adf4db44241d80f5f3fe3ddfbd8d058c26189",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/paintScreen.md",
+      "hash": "e40dc22f172c7971f8f812fcbab37e4bcc098148",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/tick.md",
+      "hash": "463e37966ea446339b32e16fb7c6db2f1beb1b4f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/painterUpdated.md",
+      "hash": "351596b4e9e63b01db2626dc3492797cc09fae16",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/lang.md",
+      "hash": "41ce7cd7f4c29821f4d882ba22cd750f3f818ca0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/ClientEvents/highPriorityAssets.md",
+      "hash": "9dc84408b42bb36e677bd89841bd501790b4e068",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/StartupEvents/init.md",
+      "hash": "897aa04ba88274750ca21860cc7a1a2c164ad213",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/StartupEvents/registry.md",
+      "hash": "fd910c94135dc1405d4572b27e7c52120f34cd33",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/StartupEvents/modifyCreativeTab.md",
+      "hash": "d4448ccdc6c086c66e9988d3a85570ade8c97377",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/StartupEvents/recipeSchemaRegistry.md",
+      "hash": "024577803aba55e0ef14df480b838c23e5aad95c",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/StartupEvents/postInit.md",
+      "hash": "ac1d0975d2d84ce63564311dc83886c2faeead7d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/broken.md",
+      "hash": "2b008099fd83fe4eb54b9204e896c813e98a5d7a",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/detectorPowered.md",
+      "hash": "232b2e5134f204d7b5d054ba03791b9f25d61bb7",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/farmlandTrampled.md",
+      "hash": "d3e41194bc2e530a4f361dfc8f9b73609e90a151",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/placed.md",
+      "hash": "0d7e361e66b09182e297a661a16d3eb4e4a263c0",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/detectorUnpowered.md",
+      "hash": "cfd206e9ce5d1a68e27f31408ecbfb90e5642561",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/leftClicked.md",
+      "hash": "8584d31848cd055550a6efe1ed78dcf5215d52f8",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/rightClicked.md",
+      "hash": "a54e2dd3b59bbdeec10a11696035d36e68687b0d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/detectorChanged.md",
+      "hash": "5690f66d7de7f7ee56bc59d99c9d4d370acfd9af",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "local/kubejs/event_groups/BlockEvents/modification.md",
+      "hash": "39cb2c03b9cf42d4adb7909e48ac1f9c4a62f77f",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": "rhino.local.properties",
+      "hash": "29db89a50fa2f977be5c90c9945c47bcc87a3306",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.code-snippets",
+      "hash": "81b14f01e28c74fa0dce954d468933ed8375c958",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/item-attributes.json",
+      "hash": "6f894acae6305d4dbaf41901ba9852a1afe91194",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/item-tag-attributes.json",
+      "hash": "4ba36403fc93a90924706bf1265198e53f4df0e1",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/fluid-attributes.json",
+      "hash": "92cf8a3b67d2acc11b4df24951471a3fe5c5a56d",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/lang-keys.json",
+      "hash": "4fabd3d8acd9949b5bff6df7e219deb24a8de6d6",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/settings.json",
+      "hash": "1abdb0b24b4bc6b284e48248043a8c25b258ffdf",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.lang-schema.json",
+      "hash": "b5927fa90e87f99e32817835dcabec14638fb5cc",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.class-definitions.json",
+      "hash": "b6597a4e79f7811052ef3f69a5c85e457b9ef320",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.lang_key-definitions.json",
+      "hash": "95c5a71710c7ab6e61cd6e8d956cd6995092fdf9",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.registry-definitions.json",
+      "hash": "ebc8717fd3374506b17d810d640028184deff89e",
+      "force": true,
+      "type": "addon"
+    },
+    {
+      "path": ".vscode/probe.doc-schema.json",
+      "hash": "b09136cc8d0f6d44e376ff0740aa0590ad2cfd41",
+      "force": true,
+      "type": "addon"
+    }
+  ],
+  "settings": {
+    "install_mods": true,
+    "install_resourcepack": true
+  },
+  "launchInfo": {
+    "minMemory": 0,
+    "launchArgument": [],
+    "javaArgument": []
+  }
+}

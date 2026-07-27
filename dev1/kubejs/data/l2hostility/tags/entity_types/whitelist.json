@@ -1,0 +1,227 @@
+{
+  "values": [
+    {
+      "id": "iceandfire:ice_dragon",
+      "required": false
+    },
+    {
+      "id": "iceandfire:fire_dragon",
+      "required": false
+    },
+    {
+      "id": "iceandfire:lightning_dragon",
+      "required": false
+    },
+    {
+      "id": "iceandfire:deathworm",
+      "required": false
+    },
+    {
+      "id": "iceandfire:sea_serpent",
+      "required": false
+    },
+    {
+      "id": "alexscaves:hullbreaker",
+      "required": false
+    },
+    {
+      "id": "alexscaves:vallumraptor",
+      "required": false
+    },
+    {
+      "id": "alexscaves:grottoceratops",
+      "required": false
+    },
+    {
+      "id": "alexscaves:relicheirus",
+      "required": false
+    },
+    {
+      "id": "alexscaves:subterranodon",
+      "required": false
+    },
+    {
+      "id": "alexscaves:tremorsaurus",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:lich",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:gauntlet",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:obsidilith",
+      "required": false
+    },
+    {
+      "id": "bosses_of_mass_destruction:void_blossom",
+      "required": false
+    },
+    {
+      "id": "mutantmonsters:spider_pig",
+      "required": false
+    },
+    {
+      "id": "touhou_little_maid:maid",
+      "required": false
+    },
+    {
+      "id":"monsterexpansion:skrythe",
+      "required": false
+
+    },
+    {
+      "id":"monsterexpansion:rhyza",
+      "required": false
+
+    },
+    {
+      "id":"monsterexpansion:leivekilth",
+      "required": false
+
+    },
+    {
+      "id":"kc:grumpy",
+      "required": false
+
+    },
+    {
+      "id":"kc:boss_grumpzilla",
+      "required": false
+
+    },
+    {
+      "id":"kc:grumpzilla",
+      "required": false
+
+    },
+    {
+      "id":"kc:hog_kong",
+      "required": false
+
+    },
+    {
+      "id":"kc:lucimus",
+      "required": false
+
+    },
+    {
+      "id":"kc:snifferous",
+      "required": false
+
+    },
+    {
+      "id":"kc:boss_snifferous",
+      "required": false
+
+    },
+    {
+      "id":"kc:nostarion",
+      "required": false
+
+    },
+    {
+      "id":"kc:nectra",
+      "required": false
+
+    },
+    {
+      "id":"kc:jet_oxuwar",
+      "required": false
+
+    },
+    {
+      "id":"kc:vissiyah_phase_two",
+      "required": false
+
+    },
+    {
+      "id":"kc:vissiyah",
+      "required": false
+
+    },
+    {
+      "id":"goety:necromancer_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:cairn_necromancer_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:drowned_necromancer_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:wither_necromancer_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:stray_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:zombie_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:wither_skeleton_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:drowned_servant",
+      "required": false
+
+    },
+    {
+      "id":"goety:redstone_monstrosity",
+      "required": false
+
+    },
+    {
+      "id":"goety_cataclysm:netherite_monstrosity",
+      "required": false
+
+    },
+    {
+      "id":"goety:redstone_cube",
+      "required": false
+
+    },
+    {
+      "id":"goety_cataclysm:ender_golem",
+      "required": false
+
+    },
+    {
+      "id":"goety:redstone_golem",
+      "required": false
+
+    },
+    {
+      "id":"goety:grave_golem",
+      "required": false
+
+    },
+    {
+      "id":"goety:haunt",
+      "required": false
+
+    },
+    {
+      "id":"goety:twilight_goat",
+      "required": false
+
+    }
+  ]
+}
