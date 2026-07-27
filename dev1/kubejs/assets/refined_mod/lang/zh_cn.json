@@ -1,0 +1,34 @@
+{
+  "spell.refined_mod.frost_strike": "霜寒斩击",
+  "spell.refined_mod.frost_strike.guide": "将冰霜之力注入武器，释放一次横扫打击。此法术不可打断。伤害取决于手持武器的近战伤害，完全冻结的生物将被封入冰中。",
+  "spell.refined_mod.thunder_strike": "雷霆打击",
+  "spell.refined_mod.thunder_strike.guide": "用你的兵器引下一道闪电。此法术不可打断。伤害取决于手持武器的近战伤害和附魔效果。",
+  "spell.refined_mod.moon_slash": "月华斩",
+  "spell.refined_mod.moon_slash.guide": "从玩家的兵器中召唤一道横扫的月光波。",
+  "spell.refined_mod.tidal_wave": "浪潮冲击",
+  "spell.refined_mod.tidal_wave.guide": "召唤一股浪潮冲击指定区域，击退并伤害路径上的一切。",
+  "spell.refined_mod.summon_wolves": "召唤狼群",
+  "spell.refined_mod.summon_wolves.guide": "施法召唤一群忠诚的狼，它们会跟随并保护你。",
+  "spell.refined_mod.hunters_mark": "猎人印记",
+  "spell.refined_mod.hunters_mark.guide": "施法为自己施加猎人印记增益。造成非魔法伤害来给目标施加此效果，标记目标并造成额外伤害。",
+  "spell.refined_mod.create_bonfire": "创造篝火",
+  "spell.refined_mod.create_bonfire.guide": "召唤一个魔法篝火，在其激活期间提供再生和伤害吸收效果。",
+
+  "effect.refined_mod.hunters_mark": "猎人印记",
+
+  "death.attack.refined_mod.summon_wolves": "%1s被%2s的狼群撕碎",
+  "effect.refined_mod.wolf_timer": "召唤狼群",
+  "effect.refined_mod.wolf_timer.description": "显示召唤物的剩余持续时间及其数量",
+  "entity.refined_mod.summoned_wolf": "召唤的狼",
+
+  "item.refined_mod.summer_rain_sword": "夏雨剑",
+  "item.refined_mod.flame_tongue_sword": "火舌剑",
+  "item.refined_mod.hunters_bow": "猎人弓",
+
+  "item.refined_mod.jades_jewel_music_disc": "音乐唱片",
+  "item.refined_mod.jades_jewel_music_disc.desc": "Zero - 翡翠珠宝",
+
+  "ui.irons_spellbooks.damage": "%d点伤害",
+  "ui.irons_spellbooks.recast_count": "%d次施法",
+  "ui.irons_spellbooks.percent_bonus": "%d%%额外伤害"
+}
